@@ -1,0 +1,2 @@
+notepad a.txt to create file named a
+name of files in the repository ls
